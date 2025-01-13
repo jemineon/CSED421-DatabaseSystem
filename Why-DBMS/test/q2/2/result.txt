@@ -1,0 +1,6 @@
+1002                 Orange juice                                      
+1008                 Special K 12oz                                    
+1013                 Ketchup                                           
+1016                 Paprika                                           
+1019                 Dried tomatoes                                    
+1023                 Spaghetti                                         
